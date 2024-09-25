@@ -56,8 +56,8 @@ DATA_ROOT_DIR/
                 ├── slide_b.pt
                 └── ...
         └── h5_files
-                ├── slide_i.h5
-                ├── slide_ii.h5
+                ├── slide_a.h5
+                ├── slide_b.h5
                 └── ...
     └── ...
 ```
